@@ -1,5 +1,5 @@
 - 👋 Hola, Soy Sergio Terroso, @macroplayer desde el primero de noviembre de 2024
-- 👀 Me interesa desarrollar middleware de calidad, seguro y eficiente.
+- 👀 Me interesa JavaScript, C#, Java.
 - 🌱 Siempre estoy aprendiendo. Actualmente estoy buscando una certificación AWS.
 - 💞️ Me gusta colaborar con el Backend y Web Frontend.
 - 📫 Puedes encontarme por mi nombre en Teams.
